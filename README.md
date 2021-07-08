@@ -1,0 +1,1 @@
+# packer for aws ami
